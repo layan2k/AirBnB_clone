@@ -35,23 +35,23 @@
 }
 .locations h3{
     font-weight: 600;
-    color: black;
+    color: #484848;
     margin: 12px 0 5 0;
 }
 .locations h4{
     font-weight: 400;
-    color: black;
+    color: #484848;
     font-size: 14px;
     margin: 0;
 }
 .amenities h3{
     font-weight: 600;
-    color: black;
+    color: #484848;
     margin: 12px 0 5 0;
 }
 .amenities h4{
     font-weight: 400;
-    color: black;
+    color: #484848;
     font-size: 14px;
     margin: 0;
 }
